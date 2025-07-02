@@ -11,20 +11,6 @@ To build a machine learning model that predicts movie success (binary classifica
 
 ---
 
-## 📂 Folder Structure
-
-movie-success-predictor/
-│
-├── data/ # Raw and cleaned datasets
-├── notebooks/ # Jupyter notebooks for EDA, engineering, and modeling
-├── src/ # Python scripts for reusable code
-├── outputs/ # Trained models and visual outputs
-├── README.md # Project overview (this file)
-└── requirements.txt # Python dependencies
-
-
----
-
 ## 🔍 Dataset
 
 - Source: [TMDB 5000 Movie Dataset](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata)
