@@ -104,8 +104,8 @@ movie-success-predictor/
 I'm **Neena Khan**, a frontend engineer turned generative AI and data science enthusiast.  
 This project is part of my portfolio to showcase my skills in end-to-end machine learning with Python.
 
-🔗 [LinkedIn](https://linkedin.com/in/your-profile)  
-📫 [Email me](mailto:youremail@example.com)
+🔗 [LinkedIn](https://www.linkedin.com/in/neenakhan/)  
+📫 [Email me](mailto:nk.dev2021@gmail.com)
 
 ---
 
